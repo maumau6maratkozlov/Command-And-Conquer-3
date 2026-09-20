@@ -227,4 +227,4 @@ Command and Conquer 3 is available as a full free version with all features unlo
 Don't miss out on the chance to experience Command and Conquer 3! Download it now and join the battle!
 
 ---
-**Last updated:** 2026-09-20 13:21:56 UTC
+**Last updated:** 2026-09-20 17:10:40 UTC
